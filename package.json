@@ -1,5 +1,5 @@
 {
-  "name": "ngx-international-phone-number",
+  "name": "ionic-international-phone-number",
   "version": "1.0.2",
   "scripts": {
     "build": "gulp build",
